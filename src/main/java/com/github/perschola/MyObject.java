@@ -1,6 +1,6 @@
 package com.github.perschola;
 
-public class MyObject implements Runnable {
+public class AccountTest implements Runnable {
     public void run() {
         // TODO
     }
